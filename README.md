@@ -1,2 +1,2 @@
-# LIbrary
+# Library
 Basic library using JavaScript
